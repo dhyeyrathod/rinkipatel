@@ -62,3 +62,5 @@ $route['(:any)/escorts/(:any)'] = 'location';
 $route['(:any)-in-Bnaglore/(:any)'] = 'services';
 
 $route['(:any)-escotrs-in-Bnaglore/(:any)/:num'] = 'category';
+
+$route['(:any)-escorts/(:num)'] = 'location/city';
