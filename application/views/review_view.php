@@ -4,7 +4,6 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <link rel="shortcut icon" href="images/favicon.png">
         <title>Bangalore Escort Reviews | Review on Bangalore Escorts- Rinki Patel</title>
         <meta name="description" content="Read Bangalore escorts reviews. Rinki Patel is the Best Bangalore Call Girl, provides Independent escorts service in Bangalore. Our Bangalore escorts agency is well known for providing the best escort service by the most stunning and gorgeous escorts girls." />
         <meta name="keywords" content="bangalore escorts reviews, escorts service in bangalore, call girls in bangalore, escorts in bangalore, bangalore call girls, hot bangalore girls, escort rinki patel, bangalore female escorts, Bangalore Escort, independent escorts in bangalore" />

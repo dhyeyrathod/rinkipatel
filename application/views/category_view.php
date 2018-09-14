@@ -4,10 +4,9 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <link rel="shortcut icon" href="images/favicon.png">
-        <title>Electronic City Escorts Services | Bangalore Call Girls in Electronic City</title>
-        <meta name="description" content="Electronic City escorts services: Are u looking for escorts need in Electronic City Bangalore? Check out our gallery and call 24/7 hot and sexy Independent escort girls in Electronic City . Electronic City escort Agency offers Electronic City call Girls" />
-        <meta name="keywords" content="Call Girls in Electronic City , Electronic City  Escorts Services, Electronic City  Escorts, Escorts Services in Electronic City , Electronic City Call Girls, Electronic City  Escorts agency, VIP Electronic City escorts services" />
+        <title><?= $categoy_info_key->meta_title ?></title>
+        <meta name="description" content="<?= $categoy_info_key->meta_description ?>" />
+        <meta name="keywords" content="<?= $categoy_info_key->meta_keywords ?>" />
         <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
         <?php $this->load->view('common/css') ?>
     </head>
@@ -40,7 +39,7 @@
                         <?php $url = base_url('benglore')."/".$all_profile_data->area_name."-escorts/".$this->friend->base64url_encode($all_profile_data->id) ; ?>
                         <a href="<?= $url ?>">
                             <div class="img-box-bg">
-                                <div class="img-box"><img src="<?= base_url('admin/post_image') ?>/<?= $all_profile_data->image_name ?>" />
+                                <div class="img-box"><img style="width: 277px;height: 340px;" src="<?= base_url('admin/post_image') ?>/<?= $all_profile_data->image_name ?>" />
                                 </div>
                                 <div class="img-text-box">
                                     <h4><?= $this->config->item('site_name') ?></h4>

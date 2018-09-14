@@ -4,7 +4,6 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <link rel="shortcut icon" href="images/favicon.png">
         <title>Booking of Bangalore Escorts and Call Girls for Night Fun</title>
         <meta name="description" content="Bangalore Escorts. Rinki Patel is and Independent Bangalore Escorts provide Best Escorts Services in Bangalore." />
         <meta name="keywords" content="bangalore escort service, independent escort service in bangalore, call girls in bangalore, free dating website in bangalore, high profile vip models in bangalore, hot bangalore girls , escort rinki patel, bangalore female escorts, Bangalore Escorts, independent escorts in bangalore   " />

@@ -33,7 +33,7 @@
                         <?php $url = base_url('benglore')."/".$all_profile_data->area_name."-escorts/".$this->friend->base64url_encode($all_profile_data->id) ; ?>
                         <a href="<?= $url ?>">
                             <div class="img-box-bg">
-                                <div class="img-box"><img src="<?= base_url('admin/post_image') ?>/<?= $all_profile_data->image_name ?>" />
+                                <div class="img-box"><img style="width: 277px;height: 340px;" src="<?= base_url('admin/post_image') ?>/<?= $all_profile_data->image_name ?>" />
                                 </div>
                                 <div class="img-text-box">
                                     <h4><?= $this->config->item('site_name') ?></h4>
@@ -73,7 +73,7 @@
                     When it comes to <a href="http://www.rinkipatel.com/">independent escorts in Bangalore</a>, you are very lucky to avail their services. They will not only give physical satisfaction but also helps our esteemed clients in the field of body treatment. Our <b><i>escorts agency</i></b> is having superb and stunning <i>Bangalore escorts</i> who are having pleasing personality to attract the clients in single view. They wear short dresses along with backless tops which makes them comfortable during dancing.
                 </p>
                 <p>
-                    Our regular clients will also come across with <a href="http://www.rinkipatel.com/escorts.html">VIP high profile Bangalore escorts</a> who main motive is to give those best services in the field of sexual desire. Men who are moving for sex facility with these escorts are more satisfactory in nature as they will do different kinds of acts performed by them to make them fully satisfied. These <b>Bangalore escorts</b> are especially hired by the firm to give endless services to the high profile person who also wants to have fun side by side running their business.
+                    Our regular clients will also come across with <a href="<?= base_url('escorts/') ?>">VIP high profile Bangalore escorts</a> who main motive is to give those best services in the field of sexual desire. Men who are moving for sex facility with these escorts are more satisfactory in nature as they will do different kinds of acts performed by them to make them fully satisfied. These <b>Bangalore escorts</b> are especially hired by the firm to give endless services to the high profile person who also wants to have fun side by side running their business.
                 </p>
             </div>
         </div>
@@ -93,7 +93,7 @@
                     Thus our agencies are best in terms of escorts, where the needs of the clients are fully met. Our company is also best in keeping the privacy part of the customers where the information regarding the same will not leaked out without taking you permission. Apart from that we are available for our customers for all 24 hours and any one can avail the facility anytime and anywhere. Our rates are affordable in nature that can be easily taken by clients. They are having the best option to choose them from our website where the rates are also mentioned.
                 </p>
                 <p>
-                    Our <a href="http://www.rinkipatel.com/">Bangalore escorts</a> are well dressed and mannered in nature where they know the tricks to keep their guest happy. <a href="http://www.rinkipatel.com/escorts.html">High profile model Bangalore escorts</a> are also demanded by most of the clients who wanted to take the services of these Bangalore escorts whatever the charges they are demanded. These escorts maintain themselves in the best way where they keep their body clean in order to attract the customers.
+                    Our <a href="http://www.rinkipatel.com/">Bangalore escorts</a> are well dressed and mannered in nature where they know the tricks to keep their guest happy. <a href="<?= base_url('escorts/') ?>">High profile model Bangalore escorts</a> are also demanded by most of the clients who wanted to take the services of these Bangalore escorts whatever the charges they are demanded. These escorts maintain themselves in the best way where they keep their body clean in order to attract the customers.
                 </p>
                 <p>
                     Our escort goes for regular waxing which makes them more gorgeous in nature. Anyone can easily avail the facility of <b>escorts</b> as their images are uploaded in the site from where you easily look them for service. The rates of them are affordable in nature which can be taken by business and middle class people.Model <i>escorts in Bangalore</i> are providing the same services as provided by other escorts. They are stunning and attractive to offer their escorts services to high elite.

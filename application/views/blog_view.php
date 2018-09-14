@@ -4,7 +4,6 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <link rel="shortcut icon" href="images/favicon.png">
         <title>Blogs- Read Articles and Stories of Bangalore Escorts and Call Girls</title>
         <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
         <?php $this->load->view('common/css') ?>

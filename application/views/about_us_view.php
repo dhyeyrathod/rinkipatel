@@ -85,7 +85,7 @@
                     <?php $url = base_url('benglore')."/".$all_profile_data->area_name."-escorts/".$this->friend->base64url_encode($all_profile_data->id) ; ?>
                     <a href="<?= $url ?>">
                         <div class="img-box-bg">
-                            <div class="img-box"><img src="<?= base_url('admin/post_image') ?>/<?= $all_profile_data->image_name ?>" />
+                            <div class="img-box"><img style="width: 277px;height: 340px;" src="<?= base_url('admin/post_image') ?>/<?= $all_profile_data->image_name ?>" />
                             </div>
                             <div class="img-text-box">
                                 <h4><?= $this->config->item('site_name') ?></h4>

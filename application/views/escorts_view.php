@@ -39,7 +39,7 @@
                     We are having trained and experienced escorts who are well versed with the needs of the clients. They know how to keep you happy by offering different kinds of services. These <strong>Bangalore escorts</strong> are educated in nature having rich with interpersonal and communication skill. Our escorts are adjustable in nature and adjust themselves with the clients easily. We offer unique services which can meet the satisfaction level of the customers.
                 </p>
                 <p>
-                    <a href="http://www.rinkipatel.com/about-us.html">Bangalore escorts services</a> are famous for providing affordable and unique services which can meet the expectation level of the customers. Some of the main services provided by our Bangalore escorts include:
+                    <a href="<?= base_url('about_us/') ?>">Bangalore escorts services</a> are famous for providing affordable and unique services which can meet the expectation level of the customers. Some of the main services provided by our Bangalore escorts include:
                 </p>
                 <p>
                     Sex in different positions instructed by the clients
@@ -72,7 +72,7 @@
                     Thus our agencies are best in terms of escorts, where the needs of the clients are fully met. Our company is also best in keeping the privacy part of the customers where the information regarding the same will not leaked out without taking you permission. Apart from that we are available for our customers for all 24 hours and any one can avail the facility anytime and anywhere. Our rates are affordable in nature that can be easily taken by clients. They are having the best option to choose them from our website where the rates are also mentioned.
                 </p>
                 <p>
-                    Our <b><i>Bangalore escorts</i></b> are well dressed and mannered in nature where they know the tricks to keep their guest happy. <b><a href="http://www.rinkipatel.com/bookings.html">High profile model Bangalore escorts</a></b> are also demanded by most of the clients who wanted to take the services of these Bangalore escorts whatever the charges they are demanded. These escorts maintain themselves in the best way where they keep their body clean in order to attract the customers.
+                    Our <b><i>Bangalore escorts</i></b> are well dressed and mannered in nature where they know the tricks to keep their guest happy. <b><a href="<?= base_url('about_us/') ?>">High profile model Bangalore escorts</a></b> are also demanded by most of the clients who wanted to take the services of these Bangalore escorts whatever the charges they are demanded. These escorts maintain themselves in the best way where they keep their body clean in order to attract the customers.
                 </p>
                 <p>
                     Our escort goes for regular waxing which makes them more gorgeous in nature. Anyone can easily avail the facility of escorts as their images are uploaded in the site from where you easily look them for service. The rates of them are affordable in nature which can be taken by business and middle class people.Model escorts in Bangalore are providing the same services as provided by other escorts. They are stunning and attractive to offer their escorts services to high elite.
@@ -86,7 +86,7 @@
                         <?php $url = base_url('benglore')."/".$all_profile_data->area_name."-escorts/".$this->friend->base64url_encode($all_profile_data->id) ; ?>
                         <a href="<?= $url ?>">
                             <div class="img-box-bg">
-                                <div class="img-box"><img src="<?= base_url('admin/post_image') ?>/<?= $all_profile_data->image_name ?>" />
+                                <div class="img-box"><img style="width: 277px;height: 340px;" src="<?= base_url('admin/post_image') ?>/<?= $all_profile_data->image_name ?>" />
                                 </div>
                                 <div class="img-text-box">
                                     <h4><?= $this->config->item('site_name') ?></h4>

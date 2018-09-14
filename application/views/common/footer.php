@@ -31,53 +31,53 @@
                 <h6 class="text-uppercase font-weight-bold">City</h6>
                 <hr class="gold mb-3 mt-0 d-inline-block mx-auto" style="width: 30px;">
                 <p>
-                    <a href="agra-escorts.html">Agra</a>
+                    <a href="<?= base_url(); ?>">Agra</a>
                 </p>
                 <p>
-                    <a href="ahmedabad-escorts.html">Ahmedabad</a>
+                    <a href="<?= base_url(); ?>">Ahmedabad</a>
                 </p>
                 <p>
-                    <a href="bangalore-escorts.html">Bangalore</a>
+                    <a href="<?= base_url(); ?>">Bangalore</a>
                 </p>
                 <p>
-                    <a href="chennai-escorts.html">Chennai</a>
+                    <a href="<?= base_url(); ?>">Chennai</a>
                 </p>
                 <p>
-                    <a href="chandigarh-escorts.html">Chandigarh</a>
-                </p>
-            </div>
-            <div class="col-md-3 col-lg-3 col-xl-3 mx-auto pt-lg-5  mb-lg-4">
-                <p>
-                    <a href="delhi-escorts.html">Delhi</a>
-                </p>
-                <p>
-                    <a href="gurgaon-escorts.html">Gurgaon</a>
-                </p>
-                <p>
-                    <a href="hyderabad-escorts.html">Hyderabad</a>
-                </p>
-                <p>
-                    <a href="jaipur-escorts.html">Jaipur</a>
-                </p>
-                <p>
-                    <a href="kolkata-escorts.html">Kolkata</a>
+                    <a href="<?= base_url(); ?>">Chandigarh</a>
                 </p>
             </div>
             <div class="col-md-3 col-lg-3 col-xl-3 mx-auto pt-lg-5  mb-lg-4">
                 <p>
-                    <a href="lucknow-escorts.html">Lucknow</a>
+                    <a href="<?= base_url(); ?>">Delhi</a>
                 </p>
                 <p>
-                    <a href="mumbai-escorts.html">Mumbai</a>
+                    <a href="<?= base_url(); ?>">Gurgaon</a>
                 </p>
                 <p>
-                    <a href="nashik-escorts.html">Nashik</a>
+                    <a href="<?= base_url(); ?>">Hyderabad</a>
                 </p>
                 <p>
-                    <a href="pune-escorts.html">Pune</a>
+                    <a href="<?= base_url(); ?>">Jaipur</a>
                 </p>
                 <p>
-                    <a href="surat-escorts.html">Surat</a>
+                    <a href="<?= base_url(); ?>">Kolkata</a>
+                </p>
+            </div>
+            <div class="col-md-3 col-lg-3 col-xl-3 mx-auto pt-lg-5  mb-lg-4">
+                <p>
+                    <a href="<?= base_url(); ?>">Lucknow</a>
+                </p>
+                <p>
+                    <a href="<?= base_url(); ?>">Mumbai</a>
+                </p>
+                <p>
+                    <a href="<?= base_url(); ?>">Nashik</a>
+                </p>
+                <p>
+                    <a href="<?= base_url(); ?>">Pune</a>
+                </p>
+                <p>
+                    <a href="<?= base_url(); ?>">Surat</a>
                 </p>
             </div>
             <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">

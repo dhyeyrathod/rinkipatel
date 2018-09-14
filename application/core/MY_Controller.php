@@ -13,5 +13,6 @@ class MY_Controller extends CI_Controller
 		$this->load->library('session');
 		$this->load->helper('friend');
 		$this->friend = new friend ;
+		// $this->output->cache(10000000);
 	}
 }
