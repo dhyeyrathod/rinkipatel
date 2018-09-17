@@ -65,3 +65,5 @@ $route['(:any)-in-Bangalore/(:any)'] = 'services';
 $route['(:any)-escotrs-in-Bangalore/(:any)/:num'] = 'category';
 
 $route['(:any)-escorts/(:num)'] = 'location/city';
+
+$route['blog-details/(:any)/(:any)'] = 'blog/details';

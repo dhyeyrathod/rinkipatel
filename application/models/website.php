@@ -81,4 +81,9 @@ class Website extends CI_Model
 		$sql_str = "SELECT * FROM cities WHERE id = ".$this->db->escape($city_id);
 		return $this->db->query($sql_str)->row();
 	}
+	public function getSingleBlogInfoById($blog_id)
+	{
+		$sql_str = "SELECT * FROM blog WHERE id = ".$this->db->escape($blog_id);
+		return $this->db->query($sql_str)->row();
+	}
 }
