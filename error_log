@@ -1,0 +1,6 @@
+[14-Sep-2018 17:26:36 UTC] PHP Fatal error:  Call to undefined method Website::getSingleCityData() in /home/rinkitwistseo/public_html/application/controllers/Location.php on line 25
+[14-Sep-2018 17:26:39 UTC] PHP Fatal error:  Call to undefined method Website::getSingleCityData() in /home/rinkitwistseo/public_html/application/controllers/Location.php on line 25
+[14-Sep-2018 17:26:58 UTC] PHP Fatal error:  Call to undefined method Website::getSingleCityData() in /home/rinkitwistseo/public_html/application/controllers/Location.php on line 25
+[14-Sep-2018 17:27:07 UTC] PHP Fatal error:  Call to undefined method Website::getSingleCityData() in /home/rinkitwistseo/public_html/application/controllers/Location.php on line 25
+[14-Sep-2018 17:27:32 UTC] PHP Fatal error:  Call to undefined method Website::getSingleCityData() in /home/rinkitwistseo/public_html/application/controllers/Location.php on line 25
+[14-Sep-2018 17:27:35 UTC] PHP Fatal error:  Call to undefined method Website::getSingleCityData() in /home/rinkitwistseo/public_html/application/controllers/Location.php on line 25

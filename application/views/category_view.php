@@ -25,7 +25,7 @@
         <div class="container mb-4">
             <div class="col-lg-12 mb-2">
                 <div class="section-title-bg mb-4">
-                    <h1><?= $categoy_info_key->category_name ?> Escorts</h1>
+                    <h1><?= $categoy_info_key->category_name ?></h1>
                 </div>
             </div>
             <div class="bg">
@@ -36,10 +36,10 @@
             <div class="row">
                 <?php foreach ($all_profile_key as $key => $all_profile_data) : ?>
                     <div class="col-6 col-lg-3 col-md-6 mb-4">
-                        <?php $url = base_url('benglore')."/".$all_profile_data->area_name."-escorts/".$this->friend->base64url_encode($all_profile_data->id) ; ?>
+                        <?php $url = base_url('Bangalore')."/".str_replace(' ','-',$all_profile_data->area_name)."-escorts/".$this->friend->base64url_encode($all_profile_data->id) ; ?>
                         <a href="<?= $url ?>">
                             <div class="img-box-bg">
-                                <div class="img-box"><img style="width: 277px;height: 340px;" src="<?= base_url('admin/post_image') ?>/<?= $all_profile_data->image_name ?>" />
+                                <div class="img-box"><img style="width: 277px;height: 340px;" src="<?= base_url('admin/post_image') ?>/<?= $all_profile_data->image_name ?>" alt="<?= $this->config->item('site_name') ?>" />
                                 </div>
                                 <div class="img-text-box">
                                     <h4><?= $this->config->item('site_name') ?></h4>

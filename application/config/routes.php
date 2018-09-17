@@ -50,17 +50,18 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['default_controller'] = 'home';
-$route['404_override'] = '';
+$route['404_override'] = 'home';
 $route['translate_uri_dashes'] = FALSE;
 
 
-$route['benglore/(:any)-escorts/(:any)'] = 'escorts/index';
+$route['Bangalore/(:any)-escorts/(:any)'] = 'escorts/index';
+
 $route['escorts'] = 'escorts/girls';
 
 $route['(:any)/escorts/(:any)'] = 'location';
 
-$route['(:any)-in-Bnaglore/(:any)'] = 'services';
+$route['(:any)-in-Bangalore/(:any)'] = 'services';
 
-$route['(:any)-escotrs-in-Bnaglore/(:any)/:num'] = 'category';
+$route['(:any)-escotrs-in-Bangalore/(:any)/:num'] = 'category';
 
 $route['(:any)-escorts/(:num)'] = 'location/city';
